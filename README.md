@@ -110,5 +110,8 @@ String password = "your_password";
 
 Compile and run the main entry point class to launch the application.
 
+Note
+you can use the schema.sql to create all the tables by enter the database folder then in the path of your data base (eg.C:\wamp64\bin\mysql\mysql8.0.xx\bin) put the .sql file and enter cmd in administration privilege and cd to previous path and execut (mysql -u username -p db_name < schema.sql)
+
 📝 License
 This project is open-source and available under the MIT License
